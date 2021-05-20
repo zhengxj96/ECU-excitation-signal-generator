@@ -21,7 +21,7 @@ ECU excitation signal generator（LabVIEW Code）
 
 #4: Click on the submenu "Edit" under "Signal parameters" in the menu bar
 
-![image](https://user-images.githubusercontent.com/82930610/115517489-c30d2480-a2b9-11eb-8cf6-5d7092619e2f.png)
+![image](https://github.com/zhengxj96/ECU-excitation-signal-generator/blob/main/image/edit.png)
 
 #5: Click on the submenu "Save" under "Signal parameters" in the menu bar to save the above edited signal to the configuration file
 
