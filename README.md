@@ -6,7 +6,7 @@ ECU excitation signal generator（LabVIEW Code）
 
 #Secondly, the operation steps:
 
-＃1: Click on the signal generation file
+＃1: Click on the signal generation file (Signal Generator.vi)
 
 ![image](https://user-images.githubusercontent.com/82930610/115516841-19c62e80-a2b9-11eb-82f2-48defa9e67ca.png)
 
