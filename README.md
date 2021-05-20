@@ -6,11 +6,13 @@ ECU excitation signal generator（LabVIEW Code）
 
 #Secondly, the operation steps:
 
-＃1: Click on the signal generation file (Signal Generator.vi)
+＃1: (1)Choose the corresponding brand and model and channel. 
+
+     (2)Click on the signal generation file (Signal Generator.vi)
 
 ![image](https://user-images.githubusercontent.com/82930610/115516841-19c62e80-a2b9-11eb-82f2-48defa9e67ca.png)
 
-＃2：运行信号发生器VI，并在开头选择相应的品牌和型号文件，选择相应的通道，点击菜单栏中“信号发生”下的子菜单输出所需要的波形
+＃2：Click the output in the list under the signal generator in the menu bar. 运行信号发生器VI，并在开头选择相应的品牌和型号文件，选择相应的通道，点击菜单栏中“信号发生”下的子菜单输出所需要的波形
 
 ![image](https://user-images.githubusercontent.com/82930610/115517089-5c880680-a2b9-11eb-86bd-3246e627f3c8.png)
 ![image](https://user-images.githubusercontent.com/82930610/115517153-6b6eb900-a2b9-11eb-85af-6beda8d53c33.png)
