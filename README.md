@@ -7,24 +7,22 @@ ECU excitation signal generator（LabVIEW Code）
 #Secondly, the operation steps:
 
 ＃1: (1)Choose the corresponding brand and model and channel. 
+(2)Click on the signal generation file (Signal Generator.vi)
 
-     (2)Click on the signal generation file (Signal Generator.vi)
+![image](https://github.com/zhengxj96/ECU-excitation-signal-generator/blob/main/image/main.png)
 
-![image](https://user-images.githubusercontent.com/82930610/115516841-19c62e80-a2b9-11eb-82f2-48defa9e67ca.png)
+＃2：Click the "Output" in the list under the "Signal generator" in the menu bar. 
 
-＃2：Click the output in the list under the signal generator in the menu bar. 运行信号发生器VI，并在开头选择相应的品牌和型号文件，选择相应的通道，点击菜单栏中“信号发生”下的子菜单输出所需要的波形
+![image](https://github.com/zhengxj96/ECU-excitation-signal-generator/blob/main/image/signal(1).png)
 
-![image](https://user-images.githubusercontent.com/82930610/115517089-5c880680-a2b9-11eb-86bd-3246e627f3c8.png)
-![image](https://user-images.githubusercontent.com/82930610/115517153-6b6eb900-a2b9-11eb-85af-6beda8d53c33.png)
-
-#3：点击前面板中的“STOP”按钮，停止信号发生
+#3: Click the "STOP" button on the front panel to stop the signal generation.
 
 ![image](https://user-images.githubusercontent.com/82930610/115517332-9d801b00-a2b9-11eb-838b-328117be73e0.png)
 
-#4：点击菜单栏中“信号参数”下的子菜单“编辑”
+#4: Click on the submenu "Edit" under "Signal parameters" in the menu bar
 
 ![image](https://user-images.githubusercontent.com/82930610/115517489-c30d2480-a2b9-11eb-8cf6-5d7092619e2f.png)
 
-#5：点击菜单栏中“信号参数”下的子菜单“保存”，保存上述编辑的信号到配置文件中
+#5: Click on the submenu "Save" under "Signal parameters" in the menu bar to save the above edited signal to the configuration file
 
 
