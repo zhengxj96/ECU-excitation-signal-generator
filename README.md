@@ -2,7 +2,7 @@
 ECU excitation signal generator（LabVIEW Code）
 
 #一、Project structure：
-![image](https://github.com/zhengxj96/ECU-excitation-signal-generator/blob/main/Project%20structure.JPG)
+![image](https://github.com/zhengxj96/ECU-excitation-signal-generator/blob/main/image/Project%20structure.JPG)
 操作步骤：
 ＃1：点击“信号发生器（配置文件）.VI
 
