@@ -1,0 +1,36 @@
+<?xml version='1.0'  encoding='GB2312' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0</Version>
+<Array>
+<Name>Volvo</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name>string</Name>
+<Val>460 or 700 high pressure common rail</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>D7D</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>EC210 single pump engine single crankshaft signal</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>EC240B single pump engine single CKP signal</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>EC360 single pump engine single CKP signal</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>High Pressure Common Rail Signal (Goods Vehicle)</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>High Pressure Common Rail Signal</Val>
+</String>
+</Array>
+</LVData>

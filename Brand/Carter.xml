@@ -1,0 +1,36 @@
+<?xml version='1.0'  encoding='GB2312' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0</Version>
+<Array>
+<Name>Carter</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name>string</Name>
+<Val>325C engine C-9 CKP signal</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>3126 engine CKP signal</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>C6.4（DIYQT-17）CKP signal</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>C6.4 CMP signal</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>C6.6 CMP signal</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>C7 CKP and CMP signal</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>C9 CKP and CMP signal</Val>
+</String>
+</Array>
+</LVData>

@@ -1,0 +1,12 @@
+<?xml version='1.0'  encoding='GB2312' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0</Version>
+<Array>
+<Name>Komatsu</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name>string</Name>
+<Val>Komatsu -8 (Cummins 6 cylinder)</Val>
+</String>
+</Array>
+</LVData>

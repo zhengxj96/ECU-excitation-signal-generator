@@ -1,0 +1,16 @@
+<?xml version='1.0'  encoding='GB2312' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0</Version>
+<Array>
+<Name>现代</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>字符串</Name>
+<Val>400</Val>
+</String>
+<String>
+<Name>字符串</Name>
+<Val>455-7</Val>
+</String>
+</Array>
+</LVData>

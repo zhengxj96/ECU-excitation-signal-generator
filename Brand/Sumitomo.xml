@@ -1,0 +1,20 @@
+<?xml version='1.0'  encoding='GB2312' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0</Version>
+<Array>
+<Name>Sumitomo</Name>
+<Dimsize>3</Dimsize>
+<String>
+<Name>string</Name>
+<Val>Lsuzu-6HK1</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>Lsuzu-6WG1</Val>
+</String>
+<String>
+<Name>string</Name>
+<Val>Lsuzu-4HK1</Val>
+</String>
+</Array>
+</LVData>
